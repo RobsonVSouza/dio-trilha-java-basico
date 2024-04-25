@@ -6,6 +6,7 @@ public class ContaTerminal {
 
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Ola");
 
     }
 }
